@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+C:\Users\shane\Documents\MCModdingLiteLoader\GRADLE\LiteLoader-1.11\.metadata\.plugins\org.eclipse.jdt.core
